@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasgwee
-- 👀 I’m interested in Internet Technology
-- 🌱 I’m currently learning Internet Technology in Mobile Application Development
-- 💞️ I’m looking to collaborate on big IT company
+- 👀 I’m a Junior Frontend Developer
+- 🌱 I’m currently familiar with VueJs ReactJs
+- 💞️ I’m looking forward to collaborate with you all
 
 
 <!---
